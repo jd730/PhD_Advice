@@ -4,6 +4,9 @@ Collection of PhD Advice Links, This page might be very messy and will be refine
 ## Applying to PhD
 
 ### Written by Professors
+* Whether, Why, and How to Get a Ph.D. in Computer Science
+http://mycsphd.org/
+
 * Deva Eckhardt, CMU
 http://www.cs.cmu.edu/~davide/undergrad_advising.html
 
