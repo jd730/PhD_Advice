@@ -61,6 +61,9 @@ http://askdra.blogspot.com/2010/05/how-to-ask-professor-for-research.html
 
 
 ### ETC
+* Collection of SoP
+https://cs-sop.org/
+
 * 2021 Schools that do not require GRE
 https://twitter.com/paul_pearce/status/1304171346008707074
 
